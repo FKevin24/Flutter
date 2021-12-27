@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578723083217",
+    "project_id": "thekingrestaurante-b7015",
+    "storage_bucket": "thekingrestaurante-b7015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578723083217:android:d0e796bd2b2e01e98fe6f0",
+        "android_client_info": {
+          "package_name": "com.example.theking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578723083217-7t03n4illv7tivp1taf15d2csigec1lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theking",
+            "certificate_hash": "ada2b378cc5c71b930e4ad62074d1c4b3b60e654"
+          }
+        },
+        {
+          "client_id": "578723083217-ittlrrjp80qejnbfpumcpkm9ho3jpi8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theking",
+            "certificate_hash": "3a23a224c48551b911b07e5c28eb7f76668c239b"
+          }
+        },
+        {
+          "client_id": "578723083217-iddm476k1s9sv6pricberi2vtdenraih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ruJbeWeG4POwSQG1Vw99UmnsVuiGyqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578723083217-iddm476k1s9sv6pricberi2vtdenraih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

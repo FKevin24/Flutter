@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087864028483",
+    "project_id": "loginproyecto-dde2a",
+    "storage_bucket": "loginproyecto-dde2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087864028483:android:2a76e57840ee8921e703f6",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087864028483-8968c652l2i9r2ivdrbi0oglgs637uqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjgtmNW7QwS9DAbTeTTym9lyqL-RUwCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087864028483-8968c652l2i9r2ivdrbi0oglgs637uqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993214742863",
+    "project_id": "trabajo-2-aebdb",
+    "storage_bucket": "trabajo-2-aebdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993214742863:android:a3fe4b79d7b1b83d5ac53a",
+        "android_client_info": {
+          "package_name": "com.example.trabajo2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993214742863-oibvj6jg2tde3lcs6ou5g0bi4rgujpgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trabajo2firebase",
+            "certificate_hash": "ada2b378cc5c71b930e4ad62074d1c4b3b60e654"
+          }
+        },
+        {
+          "client_id": "993214742863-o2u99tkg8f4uvoptnf7tmr215th627i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmMkWqxMhnouP_952Wbb2DhvJZviMQZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993214742863-o2u99tkg8f4uvoptnf7tmr215th627i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
